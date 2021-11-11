@@ -1,4 +1,8 @@
-//Operations on array
+
+//osl practical changes
+// push and pull
+
+
 #include <stdio.h>
 void main()
 {
