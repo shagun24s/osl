@@ -1,2 +1,0 @@
-# osl
-osl practical
